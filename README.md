@@ -81,12 +81,12 @@ Times franceses de destaque
 </td>
 <td width="50%" align="center">
 
-#### 🌎 Outras Ligas
-![Outras Ligas](https://img.shields.io/badge/Outras-Ligas-092f60?style=for-the-badge)
+#### 🇧🇷 Brasileirão
+![Brasileirão](https://img.shields.io/badge/Brasileirão-009c3b?style=for-the-badge)
 
-Mais ligas e campeonatos
+Camisas dos times brasileiros
 
-**[📱 Ver Produtos](https://hsquan996.x.yupoo.com/categories/4262421)**
+**[📱 Ver Produtos](https://hsquan996.x.yupoo.com/categories/4262427)**
 
 </td>
 </tr>
@@ -100,12 +100,12 @@ Mais ligas e campeonatos
 <tr>
 <td width="33%" align="center">
 
-#### 🇧🇷 Brasileirão
-![Brasileirão](https://img.shields.io/badge/Brasileirão-009c3b?style=for-the-badge)
+#### 🌎 Outras Ligas
+![Outras Ligas](https://img.shields.io/badge/Outras-Ligas-092f60?style=for-the-badge)
 
-Camisas dos times brasileiros
+Mais ligas e campeonatos
 
-**[📱 Ver Produtos](https://hsquan996.x.yupoo.com/categories/4262427)**
+**[📱 Ver Produtos](https://hsquan996.x.yupoo.com/categories/4262421)**
 
 </td>
 <td width="33%" align="center">

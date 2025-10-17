@@ -26,7 +26,7 @@
 <tr>
 <td width="25%" align="center">
 
-#### 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Premier League
+#### Premier League 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 ![Premier League](https://img.shields.io/badge/Premier-League-37003C?style=for-the-badge)
 
 Camisas dos melhores times ingleses
@@ -36,7 +36,7 @@ Camisas dos melhores times ingleses
 </td>
 <td width="25%" align="center">
 
-#### 🇪🇸 La Liga
+#### La Liga 🇪🇸
 ![La Liga](https://img.shields.io/badge/La-Liga-FF6900?style=for-the-badge)
 
 Times espanhóis de primeira linha
@@ -46,7 +46,7 @@ Times espanhóis de primeira linha
 </td>
 <td width="25%" align="center">
 
-#### 🇮🇹 Série A
+#### Série A 🇮🇹
 ![Serie A](https://img.shields.io/badge/Série-A-008FD7?style=for-the-badge)
 
 O melhor do futebol italiano
@@ -56,7 +56,7 @@ O melhor do futebol italiano
 </td>
 <td width="25%" align="center">
 
-#### 🇩🇪 Bundesliga
+#### Bundesliga 🇩🇪
 ![Bundesliga](https://img.shields.io/badge/Bundes-Liga-D20515?style=for-the-badge)
 
 Camisas do futebol alemão
@@ -71,7 +71,7 @@ Camisas do futebol alemão
 <tr>
 <td width="50%" align="center">
 
-#### 🇫🇷 Ligue 1
+#### Ligue 1 🇫🇷
 ![Ligue 1](https://img.shields.io/badge/Ligue-1-002654?style=for-the-badge)
 
 Times franceses de destaque
@@ -81,7 +81,7 @@ Times franceses de destaque
 </td>
 <td width="50%" align="center">
 
-#### 🇧🇷 Brasileirão
+#### Brasileirão 🇧🇷
 ![Brasileirão](https://img.shields.io/badge/Brasileirão-009c3b?style=for-the-badge)
 
 Camisas dos times brasileiros
@@ -100,7 +100,7 @@ Camisas dos times brasileiros
 <tr>
 <td width="33%" align="center">
 
-#### 🌎 Outras Ligas
+#### Outras Ligas 🌎
 ![Outras Ligas](https://img.shields.io/badge/Outras-Ligas-092f60?style=for-the-badge)
 
 Mais ligas e campeonatos
@@ -110,7 +110,7 @@ Mais ligas e campeonatos
 </td>
 <td width="33%" align="center">
 
-#### 🏆 Seleções
+#### Seleções 🏆
 ![Seleções](https://img.shields.io/badge/Seleções-FFD700?style=for-the-badge)
 
 Camisas de seleções nacionais
@@ -120,7 +120,7 @@ Camisas de seleções nacionais
 </td>
 <td width="33%" align="center">
 
-#### ⏮️ Retrô
+#### Retrô ⏮️
 ![Retrô](https://img.shields.io/badge/Retrô-8B4513?style=for-the-badge)
 
 Camisas clássicas e históricas
@@ -139,7 +139,7 @@ Camisas clássicas e históricas
 <tr>
 <td width="25%" align="center">
 
-#### ⭐ Versão Jogador
+#### Versão Jogador ⭐
 ![Versão Jogador](https://img.shields.io/badge/Versão-Jogador-d27214?style=for-the-badge)
 
 Qualidade profissional
@@ -149,7 +149,7 @@ Qualidade profissional
 </td>
 <td width="25%" align="center">
 
-#### 🔵 Manga Longa
+#### Manga Longa 👕
 ![Manga Longa](https://img.shields.io/badge/Manga-Longa-092f60?style=for-the-badge)
 
 Camisas de manga longa
@@ -159,7 +159,7 @@ Camisas de manga longa
 </td>
 <td width="25%" align="center">
 
-#### 👩 Femininas
+#### Femininas 👩
 ![Femininas](https://img.shields.io/badge/Femininas-FF69B4?style=for-the-badge)
 
 Camisas esportivas femininas
@@ -169,7 +169,7 @@ Camisas esportivas femininas
 </td>
 <td width="25%" align="center">
 
-#### 👶 Kits Infantis
+#### Kits Infantis 👶
 ![Kits Infantis](https://img.shields.io/badge/Kits-Infantis-00CED1?style=for-the-badge)
 
 Camisas para as crianças
@@ -188,7 +188,7 @@ Camisas para as crianças
 <tr>
 <td align="center">
 
-#### 🏀 NBA e Mais
+#### NBA e Mais 🏀
 ![Basquete](https://img.shields.io/badge/Basquete-NBA-FF6B35?style=for-the-badge)
 
 Camisas de basquete NBA e outras ligas
